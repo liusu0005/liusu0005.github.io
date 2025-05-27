@@ -1,1 +1,19 @@
+# Site settings
 title: Su Liu
+email: sliu792@gatech.edu
+
+url: "https://liusu0005.github.io" # the base hostname & protocol for your site
+github_username:  liusu0005
+google_scholar_id: VG_nu4MAAAAJ
+linkedin_account: suliu0055
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title/
+jobtitle: "Data Scientist"
+excerpt_separator: "<!--more-->"
+
+exclude:
+- README.md
